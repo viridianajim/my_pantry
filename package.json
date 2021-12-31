@@ -1,0 +1,5 @@
+{
+  "scripts": {
+   "start": "client/npm start && server/nodemon devStarts"
+  }
+}
